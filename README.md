@@ -1,2 +1,2 @@
 # prepCourse-Henry
-Este es un repositorio del módulo 2 de prueba de SoyHenry
+Esta es una prueba de cómo crear un repositorio y clonarlo desde github en la computadora.
